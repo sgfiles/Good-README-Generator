@@ -1,0 +1,24 @@
+{
+  "name": "Good-README-Generator",
+  "version": "1.0.0",
+  "description": "Here we are creating a README file for a user. The user will go through a series of prompts inputing their answer. Once user has answered all the questions the application will generate a file about the project.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgfiles/Good-README-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgfiles/Good-README-Generator/issues"
+  },
+  "homepage": "https://github.com/sgfiles/Good-README-Generator#readme"
+}
